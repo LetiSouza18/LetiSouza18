@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Letícia Souza
 
-- 🔭 Atualmente programo em C++ em uma startup
-- 🌱 Estudando JavaScript
+- 🔭 Já programei em C++ em uma startup
+- 🌱 Estudando JavaScript, React, Bootstrap e Node.js
 - 👯 Cursando a formação Full Stack na DNC
 - 💬 Contate-me no email: contato.leticiamarinho0@gmail.com
-- ⚡ Fato divertido: adoro jogar bola
+- ⚡ Fato divertido: já fiz parte de uma equipe de robótica
 
 
 <div>
