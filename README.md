@@ -1,10 +1,11 @@
 ### Olá! Eu sou a Letícia Souza
 
+- :smile_cat: Sou caloura na UNB!
 - 🔭 Já programei em C++ em uma startup
 - 🌱 Estudando JavaScript, React, Bootstrap e Node.js
 - 👯 Cursando a formação Full Stack na DNC
+- :robot: Fiz parte de uma equipe de robótica
 - 💬 Contate-me no email: contato.leticiamarinho0@gmail.com
-- ⚡ Fato divertido: já fiz parte de uma equipe de robótica
 
 
 <div>
