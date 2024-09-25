@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Letícia Souza
 
 - :smile_cat: Sou caloura na UNB!
-- 💼: Faço estágio na startup de meios de pagamentos Bcodex
+- 💼 Faço estágio na startup de meios de pagamentos Bcodex
 - 🔭 Adoro programar em C++ 
 - 🌱 Estudando JavaScript, React, Bootstrap e Node.js
 - 👯 Cursando a formação Full Stack na DNC
