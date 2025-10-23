@@ -1,11 +1,5 @@
 ### Olá! Eu sou a Letícia Souza
 
-- :smile_cat: Sou caloura na UNB!
-- 💼 Faço estágio na startup de meios de pagamentos Bcodex
-- 🔭 Adoro programar em C++ 
-- 🌱 Estudando JavaScript, React, Bootstrap e Node.js
-- 👯 Cursando a formação Full Stack na DNC
-- :robot: Fiz parte de uma equipe de robótica
 - 💬 Contate-me no email: contato.leticiamarinho0@gmail.com
 
 
